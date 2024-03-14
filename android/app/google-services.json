@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200615030984",
+    "project_id": "pedometer-7",
+    "storage_bucket": "pedometer-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200615030984:android:9d870a8cedba7f2473b5fd",
+        "android_client_info": {
+          "package_name": "com.example.pedometer_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRTTV0dzs4QvDCzhgGCVhAYpp-cuKJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
